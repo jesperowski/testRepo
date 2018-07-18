@@ -13,7 +13,7 @@ namespace webapi
 {
     public class Startup
     {
-        // Some comment
+        // Some comment 2
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
